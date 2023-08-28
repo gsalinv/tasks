@@ -1,0 +1,10 @@
+E:\poo\useful\tasks\solution_tasks\tasks\bin\Debug\tasks.exe.config
+E:\poo\useful\tasks\solution_tasks\tasks\bin\Debug\tasks.exe
+E:\poo\useful\tasks\solution_tasks\tasks\bin\Debug\tasks.pdb
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.frmMain.resources
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.Properties.Resources.resources
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.csproj.GenerateResource.cache
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.exe
+E:\poo\useful\tasks\solution_tasks\tasks\obj\Debug\tasks.pdb
